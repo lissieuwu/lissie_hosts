@@ -1,5 +1,7 @@
 # Lissie's custom host list
 # MicrosoftBullshit ASNs
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 ctldl.windowsupdate.com.delivery.microsoft.com
 0.0.0.0 48.216.132.233
 0.0.0.0 13.254.4.0/24 
 0.0.0.0 199.189.36.0/24 
