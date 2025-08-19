@@ -6,6 +6,16 @@
 0.0.0.0 23.56.162.183
 0.0.0.0 us.norton.com
 0.0.0.0 san.norton.com.edgekey.net
+0.0.0.0 wu-f-net.trafficmanager.net
+0.0.0.0 fg.microsoft.map.fastly.net
+0.0.0.0 92.223.118.251
+0.0.0.0 wu-f-net.trafficmanager.net
+0.0.0.0 8.243.166.87
+0.0.0.0 8.243.166.85
+0.0.0.0 8.243.166.77
+0.0.0.0 8.243.166.89
+0.0.0.0 8.243.166.91
+
 
 # MicrosoftBullshit ASNs
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com.edgekey.net
