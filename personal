@@ -3,6 +3,9 @@
 0.0.0.0 ads.prod.webservices.mozgcp.net
 
 # MicrosoftBullshit ASNs
+0.0.0.0 fd.api.iris.microsoft.com
+0.0.0.0 fd-api-iris.trafficmanager.net
+0.0.0.0 23.96.180.189
 0.0.0.0 wu-f-net.trafficmanager.net
 0.0.0.0 92.38.145.145
 0.0.0.0 download.windowsupdate.com.delivery.microsoft.com
