@@ -3,6 +3,9 @@
 0.0.0.0 ads.prod.webservices.mozgcp.net
 
 # MicrosoftBullshit ASNs
+0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com.edgekey.net
+0.0.0.0 23.50.228.32
+0.0.0.0 e12358.d.akamaiedge.net
 0.0.0.0 fd.api.iris.microsoft.com
 0.0.0.0 fd-api-iris.trafficmanager.net
 0.0.0.0 23.96.180.189
