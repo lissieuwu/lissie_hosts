@@ -1,5 +1,11 @@
 # Lissie's custom host list
+# Ads
+0.0.0.0 ads.prod.webservices.mozgcp.net
+
 # MicrosoftBullshit ASNs
+0.0.0.0 wu-f-net.trafficmanager.net
+0.0.0.0 92.38.145.145
+0.0.0.0 download.windowsupdate.com.delivery.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 prod-atm-wds-apprep.trafficmanager.net
 0.0.0.0 ctldl.windowsupdate.com
